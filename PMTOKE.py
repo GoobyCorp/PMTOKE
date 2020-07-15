@@ -6,7 +6,6 @@ __description__ = "A script to modify PMTOK saves"
 from zlib import crc32
 from struct import pack
 from os.path import isfile
-from base64 import b64encode
 from json import loads, dumps
 from argparse import ArgumentParser
 
