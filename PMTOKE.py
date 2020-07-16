@@ -9,7 +9,6 @@ from os.path import isfile
 from json import loads, dumps
 from argparse import ArgumentParser
 
-
 def read_file(filename: str, *, json: bool = False, text: bool = False) -> (str, bytes, bytearray, list, dict):
 	with open(filename, "r" if any([json, text]) else "rb") as f:
 		data = f.read()

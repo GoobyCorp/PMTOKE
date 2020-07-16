@@ -4,7 +4,7 @@ A script to modify PMTOK saves
 
 **BACK UP YOUR SAVES**
 
-You can grab your save using [JKSM](https://gbatemp.net/threads/release-jks-savemanager-homebrew-cia-save-manager.413143/)
+You can grab your save using [JKSM](https://github.com/J-D-K/JKSM)
 
 Usage is as follows:
 ```
