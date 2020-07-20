@@ -4,7 +4,7 @@ A script to modify PMTOK saves
 
 **BACK UP YOUR SAVES**
 
-You can grab your save using [JKSM](https://github.com/J-D-K/JKSM)
+You can grab your save using [JKSV](https://github.com/J-D-K/JKSV)
 
 Usage is as follows:
 ```
